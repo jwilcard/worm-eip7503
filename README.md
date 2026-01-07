@@ -1,2 +1,2 @@
-# worm-eip7503
- User Friendly Documentation
+# Documentation & Usability Improvement Work flow For WORM | EIP-7503 
+ 
